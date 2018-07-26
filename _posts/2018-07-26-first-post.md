@@ -8,6 +8,6 @@ This is a test post.
 
 Does it do LaTeX?
 
-$$\int_a^b f(x) dx$$
+\[\int_a^b f(x) dx\]
 
 This is the end.
